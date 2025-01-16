@@ -36,8 +36,10 @@ This project analyzes sales data from Madhav E-commerce to derive valuable busin
 
 The dataset used in this project includes the following columns:
 
-•	Order ID: Unique identifier for each transaction.                                                                                                                                                                                                                                                                                                                                     
-•	Order Date: Date of purchase.                                                                                                                                                                                      
+#•	Order ID: Unique identifier for each transaction.                                                                                                                                                                                                                                                                                                                                    
+
+•	Order Date: Date of purchase.
+
 •	Customer Name: Customer details for segmentation and analysis.
 •	State: Geographic location of sales.
 •	Product Category: Product segmentation by category.
