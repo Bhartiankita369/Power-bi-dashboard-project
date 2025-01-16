@@ -69,6 +69,11 @@ The dataset used in this project includes the following columns:
 
 •	Underperforming Categories: Tables and accessories generate lower profits.
 
+# Visualizations
+
+![Screenshot (41)](https://github.com/user-attachments/assets/2e8dd13f-893d-4c44-9aa9-74f489bbe8b9)
+
+
 
 
 
