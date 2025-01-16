@@ -36,23 +36,37 @@ This project analyzes sales data from Madhav E-commerce to derive valuable busin
 
 The dataset used in this project includes the following columns:
 
-#•	Order ID: Unique identifier for each transaction.                                                                                                                                                                •	Order Date: Date of purchase.
+•	Order ID: Unique identifier for each transaction.   
+
+•	Order Date: Date of purchase.
+
 •	Customer Name: Customer details for segmentation and analysis.
+
 •	State: Geographic location of sales.
+
 •	Product Category: Product segmentation by category.
+
 •	Product Sub-Category: Detailed segmentation of products.
+
 •	Quantity Sold: Number of units sold.
+
 •	Sales Amount: Revenue generated from each transaction.
+
 •	Profit: Profit earned from each sale.
+
 •	Payment Mode: Customer's payment preference (COD, UPI, Credit Card, etc.).
 
 # Key Insights
 
 
 •	Top Revenue State: Maharashtra
+
 •	Most Popular Category: Clothing (63% of total sales)
+
 •	Seasonality: Highest profit during December (holiday season).
+
 •	Payment Preference: Cash on Delivery (44%) is the most popular payment method.
+
 •	Underperforming Categories: Tables and accessories generate lower profits.
 
 
