@@ -9,18 +9,26 @@ This project analyzes sales data from Madhav E-commerce to derive valuable busin
 
 
 •	Comprehensive Metrics: Track total sales, profit, quantity sold, and average order value (AOV).
+
 •	Regional Analysis: Identify top-performing states and regions with improvement potential.
+
 •	Category Analysis: Understand sales distribution across different product categories and subcategories.
+
 •	Customer Insights: Analyze high-value customers and focus on improving engagement with lower-contributing customers.
+
 •	Payment Mode Analysis: Understand customer payment preferences to strategize accordingly.
+
 •	Profit Trends: Identify seasonal trends and peak sales periods.
+
 •	Interactive Dashboard: Built in Power BI with filters for quarters, states, and other dimensions.
 
 # Technologies Used
 
 
 •	Data Cleaning and Preparation: Power query
+
 •	Visualization and Dashboard: Microsoft Power BI
+
 •	Database Management: MS Excel for raw and cleaned data storage
 
 # Dataset
